@@ -1,0 +1,21 @@
+{"produk":[{
+                    "merek": "Supra",
+                    "harga": 5500000,
+                    "image": "img/supra.jpg"
+                }, {
+                    "merek": "Mio",
+                    "harga": 3400000,
+                    "image": "img/mio.jpg"
+                }, {
+                    "merek": "NMax",
+                    "harga": 2500000,
+                    "image": "img/nmax.jpg"
+                }, {
+                    "merek": "Shogun",
+                    "harga": 3400000,
+                    "image": "img/shogun.jpg"
+                }, {
+                    "merek": "Satria",
+                    "harga": 1400000,
+                    "image": "img/satria.jpg"
+                }]}
