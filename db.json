@@ -9,7 +9,7 @@
             "nama_produk": "Telkomsel Reguler 100k",
             "selling_price": 350
         }
-    ]
+    ],
     "produkpaketdt": [{
             "id": 1,
             "nama_produk": "XL Reguler 100k",
@@ -22,7 +22,7 @@
             "info_produk": "Unlimited 24 jam",
             "selling_price": 350
         }
-    ]
+    ],
     "produkroaming": [{
             "id": 1,
             "nama_produk": "Singapura - Paket Data - 1 Hari",
