@@ -1,5 +1,4 @@
-{
-  "produk":[
+[
     {
                     "id": 1,
                     "nama_produk": "XL Reguler",
@@ -9,5 +8,4 @@
                     "nama_produk": "Telkomsel Reguler",
                     "selling_price": 350
     }
-  ]
-}
+]
