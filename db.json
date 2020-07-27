@@ -16,22 +16,4 @@
                     "product_type": "indonesia",
                     "currency_code": "NTD",
                     "Prefix": 0811
-                }, {
-                    "id": 3,
-                    "kode_produk": "XL",
-                    "nama_produk": "Xl Axiata 100k,
-                    "selling_price": 250,
-                    "partner_fee": 15,
-                    "product_type": "indonesia",
-                    "currency_code": "NTD",
-                    "Prefix": 0817
-                }, {
-                    "id": 4,
-                    "kode_produk": "THREE3",
-                    "nama_produk": "3 Three Reguler 100k",
-                    "selling_price": 200,
-                    "partner_fee": 20,
-                    "product_type": "indonesia",
-                    "currency_code": "NTD",
-                    "Prefix": 0896
                 }]}
