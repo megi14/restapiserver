@@ -1,12 +1,38 @@
 {
-    "produk": [{
+    "produkpulsa": [{
             "id": 1,
-            "nama_produk": "XL Reguler",
+            "nama_produk": "XL Reguler 100k",
             "selling_price": 300
         },
         {
             "id": 2,
-            "nama_produk": "Telkomsel Reguler",
+            "nama_produk": "Telkomsel Reguler 100k",
+            "selling_price": 350
+        }
+    ]
+    "produkpaketdt": [{
+            "id": 1,
+            "nama_produk": "XL Reguler 100k",
+            "info_produk": "Unlimited 24 jam",
+            "selling_price": 300
+        },
+        {
+            "id": 2,
+            "nama_produk": "Telkomsel Reguler 100k",
+            "info_produk": "Unlimited 24 jam",
+            "selling_price": 350
+        }
+    ]
+    "produkroaming": [{
+            "id": 1,
+            "nama_produk": "Singapura - Paket Data - 1 Hari",
+            "info_produk": "Internetan sepuasnya selama berada di Singapura hasjdans hsandsajndkjiwansjadba",
+            "selling_price": 300
+        },
+        {
+            "id": 2,
+            "nama_produk": "Malaysia - Paket Data - 3 Hari",
+            "info_produk": "Internetan 24 jam sepuasnya selama di Malaysia",
             "selling_price": 350
         }
     ]
