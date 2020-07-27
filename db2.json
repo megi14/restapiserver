@@ -1,0 +1,37 @@
+{"produk":[{
+                    "id": 1,
+                    "kode_produk": "IM3",
+                    "nama_produk": "IM3 Reguler 100k",
+                    "selling_price": 300,
+                    "partner_fee": 10,
+                    "product_type": "indonesia",
+                    "currency_code": "NTD",
+                    "Prefix": 0855,0856,0857,0814,0815,0816
+                }, {
+                    "id": 2,
+                    "kode_produk": "TSEL",
+                    "nama_produk": "Telkomsel Reguler 100k",
+                    "selling_price": 350,
+                    "partner_fee": 10,
+                    "product_type": "indonesia",
+                    "currency_code": "NTD",
+                    "Prefix": 0811,0812,0813,0821,0822,0823,0851,0852,0853
+                }, {
+                    "id": 3,
+                    "kode_produk": "XL",
+                    "nama_produk": "Xl Axiata 100k,
+                    "selling_price": 300,
+                    "partner_fee": 10,
+                    "product_type": "indonesia",
+                    "currency_code": "NTD",
+                    "Prefix": 0817,0818,0819,0859,0877,0878
+                }, {
+                    "id": 4,
+                    "kode_produk": "THREE3",
+                    "nama_produk": "3 Three Reguler 100k",
+                    "selling_price": 250,
+                    "partner_fee": 10,
+                    "product_type": "indonesia",
+                    "currency_code": "NTD",
+                    "Prefix": 0896,0897,0898,0899
+                }]}
