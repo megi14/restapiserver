@@ -18,6 +18,31 @@
             "id": 4,
             "nama_produk": "Simpati Reguler 100k",
             "selling_price": 350
+        },
+        {
+            "id": 5,
+            "nama_produk": "Tsel Reguler 100k",
+            "selling_price": 350
+        },
+        {
+            "id": 6,
+            "nama_produk": "Tsel Reguler 100k",
+            "selling_price": 350
+        },
+        {
+            "id": 7,
+            "nama_produk": "Tsel Reguler 100k",
+            "selling_price": 350
+        },
+        {
+            "id": 8,
+            "nama_produk": "Tsel Reguler 100k",
+            "selling_price": 350
+        },
+        {
+            "id": 9,
+            "nama_produk": "Tsel Reguler 100k",
+            "selling_price": 350
         }
     ],
     "produkpaketdt": [{
