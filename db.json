@@ -8,6 +8,16 @@
             "id": 2,
             "nama_produk": "Tsel Reguler 100k",
             "selling_price": 350
+        },
+        {
+            "id": 3,
+            "nama_produk": "IM3 Reguler 100k",
+            "selling_price": 250
+        },
+        {
+            "id": 4,
+            "nama_produk": "Simpati Reguler 100k",
+            "selling_price": 350
         }
     ],
     "produkpaketdt": [{
